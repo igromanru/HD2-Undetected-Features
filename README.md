@@ -7,8 +7,8 @@ Therefore, they are undetectable.
 Since GameGuard detects Cheat Engine itself, I had to make an own application out of it.
 
 ## Don't use in public lobbies!  
-**Getting reported is currently the only way to get banned.
-Don't drop Super Credits, Medals or Requisition Slips with randoms in a mission.
+**Getting reported is currently the only way to get banned.  
+Don't drop Super Credits, Medals or Requisition Slips with randoms in a mission.  
 You're not only risking your account, but also drawing attention to the exploit!**
 
 ## Features
@@ -24,11 +24,11 @@ You're not only risking your account, but also drawing attention to the exploit!
 ## How to use
 Before you start, I recommend unzipping the files from the zip archive.
 1. Load the game until you're in your ship
-2. Run the [b]HD2UndetectedFeatures.exe[/b] (you must have administrator rights on the Windows account)
+2. Run the **HD2UndetectedFeatures.exe** (you must have administrator rights on the Windows account)
 3. Type one of the options number and press ENTER to select the option
 4. You can keep selecting different options or exit the program
 
-If you get the error "Couldn't open process handle", you can try to repeat from Step 2.
+If you get the error `Couldn't open process handle`, you can try to repeat from Step 2.  
 After multiple tries, you can try to restart the game. However, if GameGuard works properly, you are out of luck with this tool.
 Try about 10 times to be sure before you give up.
 
@@ -43,7 +43,7 @@ Try about 10 times to be sure before you give up.
 
 ## Disclaimer
 1. The tool doesn't bypass the nProtect GameGaurd AntiCheat protection! It relies on the incompetence of the AntiCheat to protect the process.
-If you keep getting the error message "Couldn't open process handle." no matter how many times you try, there is nothing I can do about it.
+If you keep getting the error message `Couldn't open process handle` no matter how many times you try, there is nothing I can do about it.
 1. I provide the cheat tool as it is. Don't ask me for more features (unless you can contribute the features yourself), a GameGuard bypass or where you can get one. 
 2. Infinite Stratagems with Resupply Pod drops is a very slow way to farm. There are much better and faster ways to farm with a bypass and cheats from closed/premium communities. Do your own research, if you are ready to spend money. I personally don't give away or sell anything.
 
