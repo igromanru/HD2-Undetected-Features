@@ -48,4 +48,4 @@ If you keep getting the error message `Couldn't open process handle` no matter h
 2. Infinite Stratagems with Resupply Pod drops is a very slow way to farm. There are much better and faster ways to farm with a bypass and cheats from closed/premium communities. Do your own research, if you are ready to spend money. I personally don't give away or sell anything.
 
 ##
-[![Table](https://i.imgur.com/4n3DWEe.png)]()  
+[![Table](https://i.imgur.com/4n3DWEe.png)](https://github.com/igromanru/HD2-Undetected-Features/releases/download/1.2/Helldivers.2.Undetected.Features.v1.2.by.Igromanru.zip)  
