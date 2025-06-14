@@ -28,9 +28,7 @@ Before you start, I recommend unzipping the files from the zip archive.
 3. Type one of the options number and press ENTER to select the option
 4. You can keep selecting different options or exit the program
 
-If you get the error `Couldn't open process handle`, you can try to repeat from Step 2.  
-After multiple tries, you can try to restart the game. However, if GameGuard works properly, you are out of luck with this tool.
-Try about 10 times to be sure before you give up.
+If you get errors, read the [Errors](#errors) section below for more into.
 
 ## Details
 - You can only pick up one of each resource spawn from a resupply pod, the server doesn't accept a second pickup of the same type. This is why I replace only one of the slots with SC, one with Medals and one with Requisition Slips.
@@ -40,6 +38,11 @@ Try about 10 times to be sure before you give up.
 - In each mission there is a random pick-up limit per player. After the limit is reached, the server will stop adding picked up resources to players.
 - The limit is somehow related to the map size, mission type and terrain. The ideal map size is reached on difficulty 3, and overall difficulty 3 is the best for getting the most drops on average.
 - Picked up resources are added to each player in the squad. It allows farming faster with more players, since each can pickup the same amount of stacks per mission.
+
+## Errors
+Everything that doesn't work as expected will print an error message to the console.  
+While with v1.2 the program should be able to open a process handle to the game without a problem, GameGuard seems to be able to interfere sometimes afterward.  
+If you get any errors, try to restart the tool multiple times and see if you can get features that you want activated. To be safe, try at least 6 times, before reporting the issue.
 
 ## Disclaimer
 1. The tool doesn't bypass the nProtect GameGaurd AntiCheat protection! It relies on the incompetence of the AntiCheat to protect the process.
