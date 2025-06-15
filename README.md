@@ -35,9 +35,10 @@ If you get errors, read the [Errors](#errors) section below for more into.
 - The game has only one ID for Super Credits, one ID for Medals and one ID for Requisition Slips. The amount of resources you get from one stack is random. For Super Credits there is 1% chance to get 100 instead of 10 from 1 stack. For Medals and Requisition Slips it's more random.
 
 ## Drops Information
-- In each mission there is a random pick-up limit per player. After the limit is reached, the server will stop adding picked up resources to players.
+- In each mission, there is a **random** pick-up limit that applies to each player (5-15). After the limit is reached, the server will stop adding picked up resources to players.
 - The limit is somehow related to the map size, mission type and terrain. The ideal map size is reached on difficulty 3, and overall difficulty 3 is the best for getting the most drops on average.
 - Picked up resources are added to each player in the squad. It allows farming faster with more players, since each can pickup the same amount of stacks per mission.
+- If I remember correct, Super Credits, Medals and probably Requisition Slips count to the same limit. Therefore, you might want to focus on one resource.
 
 ## Errors
 Everything that doesn't work as expected will print an error message to the console.  
