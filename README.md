@@ -5,6 +5,7 @@
 I decided to release the only features that I have that don't require .text section code patching, which is covered by integrity check of GameGuard.
 Therefore, they are undetectable.
 Since GameGuard detects Cheat Engine itself, I had to make an own application out of it.
+However, sometimes GameGuard still manages to restrict access rights of the handle that I open. It's usually fixed by restarting the cheat tool, but for some people it doesn't work at all.
 
 ## Don't use in public lobbies!  
 **Getting reported is currently the only way to get banned.  
@@ -41,9 +42,10 @@ If you get errors, read the [Errors](#errors) section below for more into.
 - If I remember correct, Super Credits, Medals and probably Requisition Slips count to the same limit. Therefore, you might want to focus on one resource.
 
 ## Errors
-Everything that doesn't work as expected will print an error message to the console.  
-While with v1.2 the program should be able to open a process handle to the game without a problem, GameGuard seems to be able to interfere sometimes afterward.  
-If you get any errors, try to restart the tool multiple times and see if you can get features that you want activated. To be safe, try at least 6 times, before reporting the issue.
+Everything that doesn't work as expected will print an error message to the console.
+While after v1.2 the program should be able to open a process handle to the game without a problem, GameGuard can sometimes revoke handle's access to the game.
+If you get any errors, try to restart the tool multiple times and see if you can get features that you want activated. To be safe, try at least 6 times.
+If you keep getting errors with `Status 0xC0000022`, it means GG prevents write access to the game. In such case, you can't use this tool on your system.
 
 ## Disclaimer
 1. The tool doesn't bypass the nProtect GameGaurd AntiCheat protection! It relies on the incompetence of the AntiCheat to protect the process.
@@ -52,4 +54,4 @@ If you keep getting the error message `Couldn't open process handle` no matter h
 2. Infinite Stratagems with Resupply Pod drops is a very slow way to farm. There are much better and faster ways to farm with a bypass and cheats from closed/premium communities. Do your own research, if you are ready to spend money. I personally don't give away or sell anything.
 
 ##
-[![Table](https://i.imgur.com/4n3DWEe.png)](https://github.com/igromanru/HD2-Undetected-Features/releases/download/1.2/Helldivers.2.Undetected.Features.v1.2.by.Igromanru.zip)  
+[![Table](https://i.imgur.com/4n3DWEe.png)](https://github.com/igromanru/HD2-Undetected-Features/releases/download/1.2.1/Helldivers.2.Undetected.Features.v1.2.1.by.Igromanru.zip)  
