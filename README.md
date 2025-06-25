@@ -42,10 +42,11 @@ If you get errors, read the [Errors](#errors) section below for more into.
 - If I remember correct, Super Credits, Medals and probably Requisition Slips count to the same limit. Therefore, you might want to focus on one resource.
 
 ## Errors
-Everything that doesn't work as expected will print an error message to the console.
-While after v1.2 the program should be able to open a process handle to the game without a problem, GameGuard can sometimes revoke handle's access to the game.
-If you get any errors, try to restart the tool multiple times and see if you can get features that you want activated. To be safe, try at least 6 times.
-If you keep getting errors with `Status 0xC0000022`, it means GG prevents write access to the game. In such case, you can't use this tool on your system.
+Everything that doesn't work as expected will print an error message to the console.  
+While after v1.2 the program should be able to open a process handle to the game without a problem, GameGuard can sometimes revoke handle's access to the game.  
+If you get any errors, try to restart the tool multiple times and see if you can get features that you want activated. To be safe, try at least 6 times.  
+If you keep getting errors with `Status 0xC0000022`, it means GG prevents write access to the game. In such case, you can't use this tool on your system.  
+Warnings can be ignored.
 
 ## Disclaimer
 1. The tool doesn't bypass the nProtect GameGaurd AntiCheat protection! It relies on the incompetence of the AntiCheat to protect the process.
