@@ -45,7 +45,7 @@ If you get errors, read the [Errors](#errors) section below for more into.
 Everything that doesn't work as expected will print an error message to the console.  
 While after v1.2 the program should be able to open a process handle to the game without a problem, GameGuard can sometimes revoke handle's access to the game.  
 If you get any errors, try to restart the tool multiple times and see if you can get features that you want activated. To be safe, try at least 6 times.  
-If you keep getting errors with `Status 0xC0000022`, it means GG prevents write access to the game. In such case, you can't use this tool on your system.  
+If you keep getting errors `0xC0000022`, it means GG prevents write access to the game. In such case, you can't use this tool on your system.  
 Warnings can be ignored.
 
 ## Disclaimer
@@ -53,6 +53,15 @@ Warnings can be ignored.
 If you keep getting the error message `Couldn't open process handle` no matter how many times you try, there is nothing I can do about it.
 1. I provide the cheat tool as it is. Don't ask me for more features (unless you can contribute the features yourself), a GameGuard bypass or where you can get one. 
 2. Infinite Stratagems with Resupply Pod drops is a very slow way to farm. There are much better and faster ways to farm with a bypass and cheats from closed/premium communities. Do your own research, if you are ready to spend money. I personally don't give away or sell anything.
+   
+## Versions
+Release v1.2.3 contains now two versions with same features.  
+- **HD2UndetectedFeatures.exe** uses WinApi to access game's memory.
+- **HD2UndetectedFeatures_NT.exe** uses undocumented NT functions to access game's memory.
+
+Since some people are reporting that v1.2.2, in which I replaced all calls with NT functions, is not working for them, I wanted to see different experiences.  
+In both cases GameGaurd can restrict the access to the process. But you might have more success rate with one over another or not.  
+For me personally, it makes no difference, both work for me at the latest on the second attempt.
 
 ##
-[![Table](https://i.imgur.com/4n3DWEe.png)](https://github.com/igromanru/HD2-Undetected-Features/releases/download/1.2.1/Helldivers.2.Undetected.Features.v1.2.1.by.Igromanru.zip)  
+[![Table](https://i.imgur.com/4n3DWEe.png)](https://github.com/igromanru/HD2-Undetected-Features/releases/download/1.2.3/Helldivers.2.Undetected.Features.v1.2.3.by.Igromanru.zip)  
