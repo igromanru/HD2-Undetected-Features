@@ -55,7 +55,7 @@ If you keep getting the error message `Couldn't open process handle` no matter h
 2. Infinite Stratagems with Resupply Pod drops is a very slow way to farm. There are much better and faster ways to farm with a bypass and cheats from closed/premium communities. Do your own research, if you are ready to spend money. I personally don't give away or sell anything.
    
 ## Versions
-Release v1.2.3 contains now two versions with same features.  
+Since v1.2.3 each release contains now two versions with same features.  
 - **HD2UndetectedFeatures.exe** uses WinApi to access game's memory.
 - **HD2UndetectedFeatures_NT.exe** uses undocumented NT functions to access game's memory.
 
@@ -64,4 +64,4 @@ In both cases GameGaurd can restrict the access to the process. But you might ha
 For me personally, it makes no difference, both work for me at the latest on the second attempt.
 
 ##
-[![Table](https://i.imgur.com/4n3DWEe.png)](https://github.com/igromanru/HD2-Undetected-Features/releases/download/1.2.3/Helldivers.2.Undetected.Features.v1.2.3.by.Igromanru.zip)  
+[![Table](https://i.imgur.com/4n3DWEe.png)](https://github.com/igromanru/HD2-Undetected-Features/releases/download/1.2.4/Helldivers.2.Undetected.Features.v1.2.4.by.Igromanru.zip)  
