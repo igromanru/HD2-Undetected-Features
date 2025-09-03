@@ -1,3 +1,8 @@
+# Detected since 03.09.2025
+GameGuard has finally blacklisted the program.    
+I've no plans to develop it further.  
+If I decide to do something about the detection, I'll update my other tool, [HD2-Sneaky-Stuff](https://github.com/igromanru/HD2-Sneaky-Stuff)
+
 # Helldivers 2 Undetected Features by Igromanru
 
 ![Preview](./Resources/Preview.png)
